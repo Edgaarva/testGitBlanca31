@@ -1,0 +1,53 @@
+ /* *{
+    background: red;
+}  */
+/* body{
+    margin: 0;
+    padding: 0;
+}
+
+.navegation{
+    border: solid 1px;
+    width: 100%;
+    height: 150px;
+    padding-left: 930px; 
+}
+
+.links{
+    border: 1px solid yellow;
+    width: 160px;
+    height: 100%;
+    margin-top: 15px;
+} */
+
+.navegation{
+    border: none;
+    padding-left: 1130px;
+}
+
+.clase1{
+    border: none;
+    padding-bottom: 60px;
+    padding-left: 500px;
+}
+
+.imagen1{
+    width: 350px;
+    height: 100%;
+    
+}
+
+
+.input{
+    padding-left: 200px;
+    height: 30px;
+    padding-top: 7px;
+    border-radius: 5px;
+    outline: none;
+    background-color: #fff;
+}
+
+.imagen2{
+    border:none;
+    padding-left: 10px;
+}

@@ -1,0 +1,17 @@
+/*estilos navbar*/
+.custom-links-nav-color{
+    color: #fff !important;
+}
+
+.logo-navbar{
+    width: 50px;
+}
+
+/* Termina estilos Navbar*/
+
+/* Comienza Carousel*/
+
+.img-custom-carousel{
+    width: 100%;
+    height: 100vh;
+}

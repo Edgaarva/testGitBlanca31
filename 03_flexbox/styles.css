@@ -1,0 +1,139 @@
+.contenedor{
+    border: 1px black solid;
+    width: 900px;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    
+}
+    
+ .rec1{
+     border: 1px red solid;
+     width: 400px;
+     height: 320px;
+     display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+ }
+
+ .father1{
+border: 1px solid yellow;
+width: 60px;
+height: 60px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ .son3{
+border: 1px solid orangered;
+width: 20px;
+height: 20px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ .mother1{
+border: 1px solid  gray;
+width: 60px;
+height: 60px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ .son4{
+border: 1px solid olive;
+width: 20px;
+height: 20px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ .son1{
+border: 1px solid goldenrod;
+width: 60px;
+height: 60px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+ }
+
+ .son5{
+border: 1px solid purple;
+width: 20px;
+height: 20px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ .rec2{
+    border: 1px red solid;
+    width: 400px;
+     height: 320px;
+     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    
+ }
+
+ .father2{
+border: 1px solid yellow;
+width: 60px;
+height: 60px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.son6{
+border: 1px solid rosybrown;
+width: 20px;
+height: 20px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+.mother2{
+border: 1px solid gray;
+width: 60px;
+height: 60px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.son7{
+border: 1px solid royalblue;
+width: 20px;
+height: 20px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+.son2{
+  border: 1px solid  goldenrod;
+  width: 60px;
+  height: 60px;
+  display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.son8{
+border: 1px solid orange;
+width: 20px;
+height: 20px;
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }

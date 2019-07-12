@@ -1,0 +1,43 @@
+h1{
+    border: solid 1px yellow;
+    /*width: 50%;*/
+    display: inline-block;
+    padding: 15px;
+    background: black;
+    color: #fff;
+    margin-right: 30px;
+}
+
+h2{
+border: solid 1px  gray;
+width: 200px;
+height: 4em;
+display: inline-block;
+background: orange;
+margin: 0 30px 5px 10px;
+}
+
+p{
+border: solid 1px  yellowgreen;
+}
+
+/*el display utilizado en la etiqueta a es llamado inline */
+a{
+border: solid 1px purple; 
+}
+
+.seccion1{
+    border: solid 1px red;
+    width: 50%;
+    height: 300px;
+}
+
+.seccion2{
+    border: solid 1px blue;
+    width: 35%;
+    height: 250px;
+}
+
+.seccion3{
+    border: solid 1px green;
+}
